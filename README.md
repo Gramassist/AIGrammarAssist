@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/bf622e24-0334-4cf1-9f29-91b4c1f785a7" width=50% height=50%>
+<img src="https://github.com/user-attachments/assets/bf622e24-0334-4cf1-9f29-91b4c1f785a7" width=75% height=75%>
 
 
 # Introducing AI Grammar Assistant - Your Ultimate Writing Companion!
