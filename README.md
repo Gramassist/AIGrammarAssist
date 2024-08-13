@@ -1,3 +1,6 @@
+![aigramslides](https://github.com/user-attachments/assets/bf622e24-0334-4cf1-9f29-91b4c1f785a7)
+
+
 # Introducing AI Grammar Assistant - Your Ultimate Writing Companion!
 AI Grammar Assistant is here to revolutionize the way you write, making every word you pen down flawless and impactful. Whether you're drafting an important email, crafting an essay, or simply sharing your thoughts on social media, our app ensures your writing is clear, correct, and compelling.
 
